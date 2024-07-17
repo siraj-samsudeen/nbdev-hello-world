@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://siraj-samsudeen.github.io',
                 'git_url': 'https://github.com/siraj-samsudeen/nbdev-hello-world',
                 'lib_path': 'nbdev_hello_world'},
-  'syms': {'nbdev_hello_world.core': {'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')}}}
+  'syms': { 'nbdev_hello_world.first_notebook': { 'nbdev_hello_world.first_notebook.foo': ( 'first_notebook.html#foo',
+                                                                                            'nbdev_hello_world/first_notebook.py')}}}
