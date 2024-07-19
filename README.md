@@ -51,6 +51,12 @@ Fill me in please! Don’t forget code examples:
     2
 
 ``` python
+2 + 2
+```
+
+    4
+
+``` python
 "Nbdev"
 ```
 
